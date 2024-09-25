@@ -1,0 +1,81 @@
+[
+  {
+    "key": "loginButton",
+    "androidValue": "com.pordiva.nesine.android:id/btnLogin",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "usernameTextBox",
+    "androidValue": "com.pordiva.nesine.android:id/username_edit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "passwordTextBox",
+    "androidValue": "com.pordiva.nesine.android:id/password_edit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "loginToAppButton",
+    "androidValue": "com.pordiva.nesine.android:id/login_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "memberButton",
+    "androidValue": "com.pordiva.nesine.android:id/ivMember",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "logoutButton",
+    "androidValue": "com.pordiva.nesine.android:id/logout_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "askLoginRadioButton",
+    "androidValue": "com.pordiva.nesine.android:id/ask_login_rb",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "promotions",
+    "androidValue": "com.pordiva.nesine.android:id/my_promotions_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "inputPromotionCodeTextBox",
+    "androidValue": "//android.widget.EditText[contains(@hint, 'Promosyon Kodu')]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "memberNumber",
+    "androidValue": "com.pordiva.nesine.android:id/tvMemberNoValue",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "memberNumberOnProfilePage",
+    "androidValue": "com.pordiva.nesine.android:id/member_no_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
